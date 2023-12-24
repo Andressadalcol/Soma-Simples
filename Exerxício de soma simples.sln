@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exerxício de soma simples", "Exerxício de soma simples\Exerxício de soma simples.csproj", "{18190C32-F6E5-47C4-A06A-162546CBB2BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18190C32-F6E5-47C4-A06A-162546CBB2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18190C32-F6E5-47C4-A06A-162546CBB2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18190C32-F6E5-47C4-A06A-162546CBB2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18190C32-F6E5-47C4-A06A-162546CBB2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64F2D634-D67C-404D-AE0B-57C2E94EE42D}
+	EndGlobalSection
+EndGlobal
