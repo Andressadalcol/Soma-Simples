@@ -11,6 +11,9 @@ namespace Exerxício_de_soma_simples
     {
         static void Main(string[] args)
         {
+           Leia dois valores inteiros, no caso para variáveis A e B. A seguir, calcule a soma entre elas e atribua à variável SOMA. 
+           A seguir escrever o valor desta variável.
+            
             int valor1, valor2, soma;
             
 
